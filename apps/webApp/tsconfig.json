@@ -3,6 +3,9 @@
   "include": [],
   "references": [
     {
+      "path": "../../shared/libs"
+    },
+    {
       "path": "./tsconfig.app.json"
     }
   ],
