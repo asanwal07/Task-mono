@@ -51,6 +51,7 @@ export default defineConfig({
       plugins: [rollupPlugin([/react-native-vector-icons/])],
     },
   },
+
   server: {
     port: 4200,
     host: 'localhost',

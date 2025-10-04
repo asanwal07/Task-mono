@@ -5,6 +5,12 @@
   "references": [
     {
       "path": "./apps/mobile"
+    },
+    {
+      "path": "./apps/webApp"
+    },
+    {
+      "path": "./shared/libs"
     }
   ]
 }
