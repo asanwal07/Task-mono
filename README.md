@@ -11,6 +11,14 @@
 To run the dev server for your app, use:
 
 ```sh
+Go Inside m-repo folder then run the follwing commands
+For the first time running android may throw some error for gradle which can be solved using below command:
+After going inside mobile directory:
+-->  chmod +x ./android/gradlew
+
+```
+
+```sh
 npx nx serve mobile
 ```
 
